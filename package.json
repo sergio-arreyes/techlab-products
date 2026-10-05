@@ -1,0 +1,13 @@
+{
+  "name": "techlab-products",
+  "version": "1.0.0",
+  "description": "Herramienta CLI para gestión de productos en TechLab",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sergio",
+  "license": "ISC"
+}
